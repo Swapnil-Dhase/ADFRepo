@@ -1,0 +1,9 @@
+{
+	"name": "adf-Swapnil-testing",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b4b18d5-43e0-4bf0-9b4b-76943cfc92e7",
+		"tenantId": "c295f5c1-105c-4696-8e27-5264ec55f309"
+	}
+}
